@@ -48,6 +48,8 @@ good morning claude
 
 #### claude-3-haiku  
 Good morning! 😊 I hope you're having a wonderful day so far. As an AI assistant, I'm always happy to chat and help out however I can. Please feel free to ask me anything - whether it's a question you need answered, a task you need assistance with, or just casual conversation. I'm here to help in whatever way I can. 🤖
+
+#### kugel  
 can you tell me something about myself?
 
 #### claude-3-haiku  
